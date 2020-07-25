@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 This is Ali Eddeb and welcome to my profile!
+
+😄 I am data explorer. I love using python to extract insights from data and build machine learning models.
+
+🔭 I’m currently working on a COD Warzone performance enhancer. You can check out my progress <a href="https://github.com/aeddeb/Predicting-Warzone-Wins-Based-on-Player-Performance">here</a>.
+
+:soccer: I also love playing soccer but I think robots are still a ways away from competing with humans.
+
+![Robots playing soccer](https://media.giphy.com/media/NWlBEcDW5evFS/giphy.gif)
+
+
 
 <!--
 **aeddeb/aeddeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
