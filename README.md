@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Ali Eddeb and welcome to my profile!
 
-😄 I am data explorer and python enthusiast. I enjoy using python to extract insights from data and building machine learning models.
+😄 I am data explorer and python enthusiast. I enjoy using python to extract insights from data and to build machine learning models.
 
 :computer: I’m currently working on a COD Warzone performance enhancer (not aimbot!!). You can check out my progress <a href="https://github.com/aeddeb/Predicting-Warzone-Wins-Based-on-Player-Performance">here</a>.
 
