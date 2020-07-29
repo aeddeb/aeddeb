@@ -6,7 +6,9 @@
 
 :soccer: I also love playing soccer but I think robots are still a ways away from competing with humans.
 
-![Robots playing soccer](https://media.giphy.com/media/NWlBEcDW5evFS/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/NWlBEcDW5evFS/giphy.gif" />
+</p>
 
 
 
