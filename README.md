@@ -20,5 +20,8 @@
 <img align="left" alt="Jupyter" width = "55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
 <img align="left" alt="SQL" width = "85px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" />
 <img align="left" alt="Tableau" width = "65px" src="https://i2.wp.com/zappysys.com/blog/wp-content/uploads/2018/06/tableau-integration-logo.png?fit=376%2C376&ssl=1" />
-<img align="left" alt="Git Bash" width = "55px" src="https://hasura.io/blog/content/images/downloaded_images/setting-up-git-bash-for-windows-e26b59e44257/1-Je4yF-xdHEluVvmS0qw8JQ.png" />
 <img align="left" alt="AWS" width = "60px" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png" />
+
+<!--- If needed, image for git icon:
+<img align="left" alt="Git Bash" width = "55px" src="https://hasura.io/blog/content/images/downloaded_images/setting-up-git-bash-for-windows-e26b59e44257/1-Je4yF-xdHEluVvmS0qw8JQ.png" />
+-->
