@@ -2,7 +2,10 @@
 
 😄 I am data explorer and python enthusiast. I enjoy using python to extract insights from data and to build machine learning models.
 
-:computer: I’m currently working on a COD Warzone performance enhancer (not aimbot!!). You can check out my progress <a href="https://github.com/aeddeb/Predicting-Warzone-Wins-Based-on-Player-Performance">here</a>.
+:computer: Here are a couple of things I'm working on (some have to stay as a secret for now :speak_no_evil:):
+  - <a href="https://github.com/aeddeb/freelancer-jobs">Feelancer Job Market Analysis</a>
+  - <a href="https://github.com/aeddeb/Predicting-Warzone-Wins-Based-on-Player-Performance">COD Warzone Performance Enhancer</a>
+  - <a href="https://github.com/aeddeb/Detecting-Fake-Reviews-using-Unsupervised-Learning">Detecting Fake Reviews Using Unsupervised Learning</a>
 
 :soccer: I also love playing soccer but I think robots are still a ways away from competing with humans.
 
