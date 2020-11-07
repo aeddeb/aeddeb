@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Ali Eddeb and welcome to my profile!
 
-😄 I am data explorer and python enthusiast. I enjoy using python to extract insights from data and to build machine learning models. I am most active, currently, on working on my data engineering skillset. 
+😄 I am data explorer and python enthusiast. I enjoy using python to extract insights from data and to build machine learning models. Currently, I am most active on developing my data engineering skillset. 
 
 :computer: Here are a couple of things I'm working on (some have to stay as a secret for now :speak_no_evil:):
   - <a href="https://github.com/aeddeb/freelancer-jobs">Feelancer Job Market Analysis</a>
